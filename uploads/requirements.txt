@@ -1,5 +1,4 @@
-flask
-scikit-learn
-spacy
+Flask
 pdfminer.six
-python-docx
+spacy
+gunicorn
